@@ -1,5 +1,3 @@
-## Hi there 
-
 <h2>
 
 Hello there 👋, I'm Devansh Arora!
