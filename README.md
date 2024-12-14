@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Arora</h1>
-<h3 align="center">I'm a 2nd year IT student at NSUT, Delhi. I am a Tech Enthusiast. I love learning new tech and putting them to use, consider me a jack of all trades as I can familiarize to new tech quickly</h3>
+<h3 align="center">I'm a 3rd year IT student at NSUT, Delhi. I am a Tech Enthusiast. I love learning new tech and putting them to use, consider me a jack of all trades as I can familiarize to new tech quickly</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devansharora312&label=Profile%20views&color=0e75b6&style=flat" alt="devansharora312" /> </p>
 
