@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Solidity, Java and x86 Assembly**
 
-- 👯 I’m looking to collaborate on **new open source projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for help with **learning game development with Godot Engine**
 
-- 👨‍💻 All of my projects are available at [https://3d-portfolio-devansh.vercel.app/home?theme=light](https://3d-portfolio-devansh.vercel.app/home?theme=light)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-devansharora-nsut.vercel.app/project)
 
 - 📫 How to reach me **devansh1807@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lsNs9ONzoF-cfLLidWf-sDfOggAVO_Me/view?usp=drive_link](https://drive.google.com/file/d/1lsNs9ONzoF-cfLLidWf-sDfOggAVO_Me/view?usp=drive_link)
+- 📄 Know about my experiences [Here](https://portfolio-devansharora-nsut.vercel.app/resume)
 
 - ⚡ Fun fact **I love automation**
 
